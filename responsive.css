@@ -1,0 +1,23 @@
+/* Untuk Tablets */
+
+/* Tambahkan breakpoint max-width: 1000px */
+@media (max-width: 1000px)
+/* Tambahkan css untuk lesson */
+.lesson{
+    width: 50%;
+    margin-botton: 50px;
+}
+
+@media (max-width: 670px)
+.lesson{
+    width:100%;
+}
+
+footer{
+    text-align: center;
+}
+
+gantikan width btn ke 100%
+.btn{
+    width:100%;
+}
